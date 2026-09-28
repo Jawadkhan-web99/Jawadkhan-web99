@@ -1,20 +1,53 @@
-<h1 align="center">Hi 👋, I'm Jawad khan</h1>
-<h3 align="center">A passionate Mern Stack developer from Pakistan</h3>
+# Hi, I'm Jawad Khan 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jawadkhan-web99&label=Profile%20views&color=0e75b6&style=flat" alt="jawadkhan-web99" /> </p>
+### 💻 Full Stack Web Developer | MERN Stack | Firebase
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jawadkhan-web99" alt="jawadkhan-web99" /></a> </p>
+I'm a Computer Science graduate and Full Stack Web Developer passionate about building modern, responsive, and user-friendly web applications.
 
-- 📫 How to reach me **jawadkhanahmad7@gmail.com**
+I work with **MERN Stack, React.js, Node.js, Express.js, MongoDB, and Firebase** to build complete web solutions from frontend interfaces to backend APIs and databases.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 🚀 What I Do
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+* 🌐 Build modern and responsive websites
+* ⚛️ Develop React.js applications
+* 🔧 Build REST APIs with Node.js & Express.js
+* 🍃 Work with MongoDB and Mongoose
+* 🔥 Integrate Firebase services
+* 🔐 Implement authentication and user management
+* 📱 Create mobile-friendly and responsive UIs
+* 🐛 Fix bugs and improve existing applications
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/portfolio"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="portfolio" /></a></p><br><br>
+### 🛠️ Tech Stack
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jawadkhan-web99&show_icons=true&locale=en&layout=compact" alt="jawadkhan-web99" /></p>
+**Frontend:** HTML5, CSS3, JavaScript, TypeScript, React.js, Bootstrap, Tailwind CSS
+
+**Backend:** Node.js, Express.js, REST APIs
+
+**Database:** MongoDB, Mongoose, Firebase
+
+**Tools:** Git, GitHub, VS Code, Vercel
+
+### 📌 Featured Projects
+
+🛒 **E-Commerce Website**
+A modern e-commerce application with product management, authentication, database integration, and responsive design.
+
+🌍 **TravelX**
+A responsive travel website featuring destinations, services, testimonials, FAQ, contact form, and smooth animations.
+
+📰 **Multilingual Fake News Detector**
+An AI-based project focused on detecting fake news in multiple languages using NLP and machine learning.
+
+### 📈 Currently Improving
+
+* Advanced React.js
+* Full Stack Development
+* REST API Development
+* Database Management
+* Modern Web Technologies
+
+### 🤝 Let's Connect
+
+I'm open to collaborating on interesting web development projects and building useful digital products.
+
+⭐ Feel free to explore my repositories and projects!
